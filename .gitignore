@@ -1,0 +1,21 @@
+# NODE MODULES
+node_modules/
+
+# ENVIRONMENT VARIABLES
+.env
+
+# LOG FILES
+logs
+*.log
+npm-debug.log*
+
+# OPERATING SYSTEM FILES
+.DS_Store
+Thumbs.db
+
+# EDITOR SETTINGS
+.vscode/
+.idea/
+
+# PACKAGE LOCK (optional for assignments)
+package-lock.json
